@@ -1,6 +1,6 @@
  # ~Mathias’s~ Erik's dotfiles
 
-![I made this](http://i2.kym-cdn.com/photos/images/newsfeed/001/079/173/ed2.png)
+![I made this](http://geekandsundry.com/wp-content/uploads/2016/04/nedroid-i-made-this-horizontal-e1460073216688.png)
 
 ## Installation
 
