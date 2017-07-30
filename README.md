@@ -1,6 +1,6 @@
-# Mathias’s dotfiles
+ # ~Mathias’s~ Erik's dotfiles
 
-![Screenshot of my shell prompt](https://i.imgur.com/EkEtphC.png)
+![I made this](http://i2.kym-cdn.com/photos/images/newsfeed/001/079/173/ed2.png)
 
 ## Installation
 
