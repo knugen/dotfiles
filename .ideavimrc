@@ -1,0 +1,8 @@
+imap jj <esc>
+
+" Use enter to insert a new line in command mode. Shift-Enter to insert new line above
+nmap <S-Enter> O<Esc>
+nmap <CR> o<Esc>
+
+" Use Ctrl-J to split the line in command mode
+nnoremap <C-J> i<CR><Esc>k$
